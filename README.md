@@ -113,6 +113,10 @@ Awesome software projects sub-categorized by focus.
 - [Verde](https://github.com/fatiando/verde) – ![Python](media/icon/python.png) processing spatial data to regular grids
 - [GeoPHP](https://geophp.net/) – ![PHP](media/icon/php.png) Geospatial library that works with many formats
 - [vtk_triangulate_points](https://github.com/pemn/vtk_triangulate_points) – ![Python](media/icon/python.png) Generate simplified topography surfaces from dense point clouds (lidar/radar/drone)
+- [RasterIO](https://github.com/mapbox/rasterio) - ![Python](media/icon/python.png) Very versatile, GDAL high-level abstraction for raster processing framework on Python.
+- [CartoPy](https://github.com/SciTools/cartopy) - ![Python](media/icon/python.png) Cartopy is a Python package designed for geospatial data processing in order to produce maps and other geospatial data analyses.
+- [Shapely](https://github.com/Toblerity/Shapely) - ![Python](media/icon/python.png) Shapely is a BSD-licensed Python package for manipulation and analysis of planar geometric objects. 
+- [GeoPandas](https://github.com/geopandas/geopandas) - ![Python](media/icon/python.png) GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types.
 ### Geochemistry
 - [PhreeQC](https://www.usgs.gov/software/phreeqc-version-3) – ![C++](media/icon/cplusplus.png) Reactions in water and between water and rocks and sediments (speciation, batch-reaction, one-dimensional transport, and inverse geochemical calculations)
 - [Reaktoro](https://reaktoro.org/) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Unified framework for modelling chemically reactive systems
